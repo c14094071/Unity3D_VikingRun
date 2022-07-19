@@ -24,5 +24,4 @@
 - How good your game is (up to 3%)
     - 我放了很多石頭增加難度，同時也加上速度暫時增快的道具，雖然乍看之下可以跑更快吃更多香菇，但超容易撞牆，難度頗高。自己玩自己設計的遊戲，還沒活超過兩分鐘。
     - 香菇任意放置，生成在灌木上騙玩家掉落
-## GitHub連結
-https://github.com/yyfscres/VikingRun
+
